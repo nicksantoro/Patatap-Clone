@@ -9,7 +9,11 @@
   <script type="text/javascript" src="paper-full.js"></script>
   <script type="text/paperscript" canvas="myCanvas">
     function onKeyDown(event) {
-      new Path.Circle(new Point(100,100), 10).fillColor = "orange";
+      var maxPoint = new Point(view.size.width, view.size.height);
+      var randomPoint = Point.random();
+      var point = maxPoint * randomPoint;
+      new Path.Circle(point, 10).fillColor = "orange";
+      
     }
 
    

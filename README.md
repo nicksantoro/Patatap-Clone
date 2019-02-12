@@ -7,6 +7,7 @@ URL: http://nicksantoro-soundmachine.surge.sh/
 
 This app utilizes Paper.js and Howler.js
 
+![landing page](screenshots/screenshot8.png)
 ![screenshot one](screenshots/screenshot1.png)
 ![screenshot two](screenshots/screenshot2.png)
 ![screenshot three](screenshots/screenshot3.png)

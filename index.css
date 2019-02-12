@@ -1,0 +1,67 @@
+body {
+  background: #ff9393;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  margin-top: 100px;
+}
+
+.h2 {
+  font-weight: 300;
+  text-align:center;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+}
+
+.p {
+  font-family: 'Lato', sans-serif;
+  text-align:center;
+  color: #0c317a;
+  font-size: 14px;
+  font-weight: 300;
+  text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+#inst {
+  font-size: 12px;
+}
+
+#me {
+  margin-top: 300px;
+  font-family: 'Lato', sans-serif;
+  text-align:center;
+  color: white;
+  font-size: 10px;
+  font-weight: 300;
+  text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.btn {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  background: #ff6767;
+  font-size: 16px;
+  font-weight: 300;
+	color: white;
+  text-transform: uppercase;
+	letter-spacing: 2px;
+  padding: 25px 80px;
+  margin: 0 auto;
+	box-shadow: 0 6px #ff3434;
+  border-radius: 20px;
+}
+
+.btn:hover {
+	box-shadow: 0 4px #ff3434;
+	top: 2px;
+}
+
+.btn:active {
+	box-shadow: 0 0 #ff3434;
+	top: 6px;
+}

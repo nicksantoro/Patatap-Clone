@@ -12,3 +12,21 @@ body, html {
 #text {
   color: white
 }
+
+/* button {
+  border-radius: 25px;
+  height: 90px;
+  width: 290px;
+  color: white;
+  background-color: red;
+  font-size: 28px;
+  border: none;
+/*   Apply transition to property */
+  transition-property: background-color;
+/*   Span of time from intial state to final */
+  transition-duration: 2000ms;
+}
+
+button:hover {
+  background-color: purple;
+} */

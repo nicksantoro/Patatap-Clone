@@ -3,7 +3,7 @@
 Instructions to play: 
 Press alphabet keys (a - z) to produce unique sounds represented by circles that scale down.
 
-URL: http://nicksantoro-soundmachine.surge.sh/
+URL: http://soundmachine.surge.sh/
 
 This app utilizes Paper.js and Howler.js
 

@@ -1,4 +1,4 @@
-# Sound Machine / A Patatap-Clone
+# Sound Machine 
 
 Instructions to play: 
 Press alphabet keys (a - z) to produce unique sounds represented by circles that scale down.
